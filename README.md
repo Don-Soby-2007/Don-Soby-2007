@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Don Soby! 👋
 
-<!--
-**Don-Soby-2007/Don-Soby-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring [your field, e.g. Developer / Student / AI Enthusiast] | Python Lover | Tech Explorer
 
-Here are some ideas to get you started:
+Passionate about coding, learning new technologies, and building cool projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎯 Currently learning [list skills or interests, e.g. Web Development, Machine Learning]
+- 🏆 [any achievements, e.g. Hackathon winner, school project lead]
+- 💪 Fitness enthusiast | Gamer | Always up for new challenges
+- 📍 From Kerala, India
+
+### 🛠️ Tech Stack
+**Programming:** Python, JavaScript, [add others]  
+**Web:** HTML, CSS, React / Django / [your tools]  
+**Databases:** MySQL / PostgreSQL  
+**Tools:** Git, GitHub, VS Code, [others]
+
+### 📊 GitHub Stats
+(You can add dynamic images later — see below)
+
+### 📫 Connect with Me
+- LinkedIn: [your link]
+- Portfolio: [your link, e.g. username.github.io]
+- Email: [your email]
+- Instagram: [your handle]
+- Twitter/X: [your handle]
+
+Thanks for visiting! Let's connect and build something awesome 🚀
