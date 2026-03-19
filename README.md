@@ -1,18 +1,18 @@
 ## Hi, I'm Don Soby! 👋
 
-Aspiring [your field, e.g. Developer / Student / AI Enthusiast] | Python Lover | Tech Explorer
+Aspiring Python Developer | Django + React | Python Lover | Tech Explorer
 
 Passionate about coding, learning new technologies, and building cool projects.
 
 ### 🚀 About Me
-- 🎯 Currently learning [list skills or interests, e.g. Web Development, Machine Learning]
-- 🏆 [any achievements, e.g. Hackathon winner, school project lead]
-- 💪 Fitness enthusiast | Gamer | Always up for new challenges
+- 🎯 Currently learning Web development using Django
+- 🏆 School Project lead, Done Full-stack Django E-commerce Project
+- 💪 Gamer | Always up for new challenges
 - 📍 From Kerala, India
 
 ### 🛠️ Tech Stack
-**Programming:** Python, JavaScript, [add others]  
-**Web:** HTML, CSS, React / Django / [your tools]  
+**Programming:** Python, JavaScript, C, C++, Java  
+**Web:** HTML, CSS, React / Django / Fast Api / Flask
 **Databases:** MySQL / PostgreSQL  
 **Tools:** Git, GitHub, VS Code, [others]
 
@@ -20,10 +20,9 @@ Passionate about coding, learning new technologies, and building cool projects.
 (You can add dynamic images later — see below)
 
 ### 📫 Connect with Me
-- LinkedIn: [your link]
-- Portfolio: [your link, e.g. username.github.io]
-- Email: [your email]
-- Instagram: [your handle]
-- Twitter/X: [your handle]
+- LinkedIn: https://www.linkedin.com/in/donsoby/
+- Portfolio: https://don-soby-2007.github.io/MyResume/
+- Email: donsoby1234@gmail.com
+- Instagram: https://www.instagram.com/___don__soby______/
 
 Thanks for visiting! Let's connect and build something awesome 🚀
