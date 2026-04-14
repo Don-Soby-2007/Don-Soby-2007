@@ -1,4 +1,9 @@
-## Hi, I'm Don Soby! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Don-Soby-2007&color=blue)
+![Followers](https://img.shields.io/github/followers/Don-Soby-2007?label=Followers&style=social)
+
+
+<h1 align='center'>Hi, I'm Don Soby! 👋</h1>
+
 
 Aspiring Python Developer | Django + React | Python Lover | Tech Explorer
 
